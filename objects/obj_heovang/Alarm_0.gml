@@ -1,0 +1,1 @@
+global.meogoe = irandom_range(0,700);

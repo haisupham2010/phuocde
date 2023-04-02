@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "uuidd",
+    "path": "extensions/uuidd/uuidd.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}
