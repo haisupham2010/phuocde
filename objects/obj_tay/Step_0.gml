@@ -1,1 +1,0 @@
-image_index = global.khoa_lac

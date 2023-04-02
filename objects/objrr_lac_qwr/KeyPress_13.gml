@@ -1,1 +1,0 @@
-//objrr_nutxocmo_qwr.alarm[2] = 1;
